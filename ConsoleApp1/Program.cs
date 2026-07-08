@@ -45,7 +45,7 @@ namespace ConsoleApp1
 
             int perSmall = 25;
             int perLarg = 35;
-            double tax = 6;
+            double tax = 0.06;
 
 
             Console.WriteLine("Welcome To Islam's Carpet Cleaning Service");
